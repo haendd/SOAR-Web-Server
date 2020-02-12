@@ -1,0 +1,30 @@
+[
+  {
+    "name": "100 East Wisconsin",
+    "interesting_facts": "3rd Tallest Building in Wisconsin",
+    "info": "Built in 1989",
+    "reviews": [
+      "Very good",
+      "Pretty Alright"
+    ]
+  },
+  {
+    "name": "U.S. Bank Center",
+    "interesting_facts": "Tallest Building in Wisconsin",
+    "info": "Built in 1973",
+    "reviews": [
+      "Awful",
+      "Extremely Bad"
+    ]
+  },
+  {
+    "name": "Northwestern Mutual Tower and Commons",
+    "interesting_facts": "2nd Tallest Building in Wisconsin",
+    "info": "Built in 2017",
+    "reviews": [
+      "The absolute best",
+      "I hate it"
+    ]
+  }
+
+]
