@@ -2,7 +2,11 @@
   {
     "name": "100 East Wisconsin",
     "interesting_facts": "3rd Tallest Building in Wisconsin",
-    "info": "Built in 1989",
+    "info": [
+      "Built in 1989",
+      "Designed by Clark, Tribble, Harris & Li",
+      "It is 167 meters tall"
+    ],
     "reviews": [
       "Very good",
       "Pretty Alright"
@@ -11,7 +15,11 @@
   {
     "name": "U.S. Bank Center",
     "interesting_facts": "Tallest Building in Wisconsin",
-    "info": "Built in 1973",
+    "info": [
+      "Built in 1973",
+      "Designed by Bruce Graham",
+      "It is 183 meters tall"
+    ],
     "reviews": [
       "Awful",
       "Extremely Bad"
@@ -20,11 +28,14 @@
   {
     "name": "Northwestern Mutual Tower and Commons",
     "interesting_facts": "2nd Tallest Building in Wisconsin",
-    "info": "Built in 2017",
+    "info": [
+      "Built in 2017",
+      "Designed by Pickard Chilton",
+      "It is 170 meters tall"
+    ],
     "reviews": [
       "The absolute best",
       "I hate it"
     ]
   }
-
 ]
