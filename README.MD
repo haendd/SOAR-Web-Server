@@ -1,4 +1,12 @@
-Steps to Run webserver in pycharm in windows
+Project Info
+
+- This projected was created by group 1 in SE 3810 031 Winter Quarter 2/14/2020
+- The project is a flask app that has an api call at /api/V1.0/get_building_info/<string>.
+This api call takes in a building name as the string and returns the json object of the building or building not found  
+
+
+
+Steps to Run webserver in pycharm on windows
 
 1. Open the entire project folder in pycharm
 
